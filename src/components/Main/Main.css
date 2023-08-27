@@ -1,0 +1,36 @@
+.main {
+    margin-top: 32px;
+    display: flex;
+    gap: 24px;
+}
+
+.blogs {
+    width: 70%;
+}
+
+.total-time {
+    color: #6047EC;
+    font-size: 24px;
+    font-weight: 700;
+    background-color: rgba(96, 71, 236, 0.10);
+    border-radius: 8px;
+    border: 1px solid #6047EC;
+    padding: 21px 50px;
+    margin-bottom: 24px;
+}
+
+.interactive-section {
+    width: 30%;
+}
+
+.bookmarks {
+    background-color: rgba(17, 17, 17, 0.05);
+    border-radius: 8px;
+}
+
+.bookmarks-heading {
+    color: #111;
+    font-size: 24px;
+    font-weight: 700;
+    padding: 30px;
+}

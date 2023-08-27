@@ -1,0 +1,14 @@
+.header {
+    margin-top: 52px;
+    margin-bottom: 32px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header h1 {
+    font-size: 40px
+}
+.hr{
+    border: 1px solid #dbdbdb;
+}
