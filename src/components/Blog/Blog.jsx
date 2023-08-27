@@ -1,3 +1,7 @@
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+import { faBookmark } from '@fortawesome/free-solid-svg-icons'
+const element = <FontAwesomeIcon icon={faBookmark} />
+
 import React from 'react';
 import './Blog.css';
 
@@ -15,7 +19,7 @@ const Blog = (props) => {
                         <p className='date'>{date}</p>
                     </div>
                 </div>
-                <p className='reading_time'>{reading_time} min read {}</p>
+                <p className='reading_time'>{reading_time} min read {element}</p>
             </div>
             <h2 className='title'>{title}</h2>
             <p className='category'>{categories.map(category => <span>#{category} </span>)}</p>
