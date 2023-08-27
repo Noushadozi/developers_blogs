@@ -35,6 +35,7 @@
     font-weight: 700;
     padding: 30px;
 }
+
 .bookmarked-blog {
     border-radius: 8px;
     background: #FFF;
@@ -43,4 +44,18 @@
     font-weight: 600;
     padding: 20px;
     margin: 20px;
+}
+
+@media only screen and (max-width: 600px) {
+    .main {
+        flex-direction: column-reverse;
+    }
+
+    .blogs {
+        width: 100%;
+    }
+
+    .interactive-section {
+        width: 100%;
+    }
 }
