@@ -59,4 +59,7 @@
 .main_img {
     height: 100%;
     width: 100%;
+    margin-bottom: 34px;
+    margin-top: 32px;
+    border-radius: 8px;
 }
