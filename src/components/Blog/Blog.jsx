@@ -6,7 +6,7 @@ import React from 'react';
 import './Blog.css';
 
 const Blog = (props) => {
-    const { addTime } = props;
+    const { addTime, addBlog,} = props;
     const { author_name, author_pic_url, date, main_image_url, reading_time, title, categories } = props.blog;
     return (
         <div className='blog'>
@@ -19,11 +19,11 @@ const Blog = (props) => {
                         <p className='date'>{date}</p>
                     </div>
                 </div>
-                <p className='reading_time'>{reading_time} min read {element}</p>
+                <p className='reading_time'>{reading_time} min read <span onClick={()=>addBlog(title)}>{element}</span></p>
             </div>
             <h2 className='title'>{title}</h2>
             <p className='category'>{categories.map(category => <span>#{category} </span>)}</p>
-            <p className='mark' onClick={()=>addTime(reading_time)}>Mark as read</p>
+            <p className='mark' onClick={() => addTime(reading_time)}>Mark as read</p>
             <hr className='hr' />
         </div>
     );

@@ -26,6 +26,7 @@
 .bookmarks {
     background-color: rgba(17, 17, 17, 0.05);
     border-radius: 8px;
+    padding-bottom: 20px;
 }
 
 .bookmarks-heading {
@@ -33,4 +34,13 @@
     font-size: 24px;
     font-weight: 700;
     padding: 30px;
+}
+.bookmarked-blog {
+    border-radius: 8px;
+    background: #FFF;
+    color: #111;
+    font-size: 18px;
+    font-weight: 600;
+    padding: 20px;
+    margin: 20px;
 }
