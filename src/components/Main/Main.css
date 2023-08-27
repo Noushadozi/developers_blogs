@@ -58,4 +58,10 @@
     .interactive-section {
         width: 100%;
     }
+
+    #root {
+        margin-left: 20px;
+        margin-right: 20px;
+    }
+
 }
