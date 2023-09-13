@@ -1,5 +1,4 @@
 import React from 'react';
-import profile from '../../images/Ellipse 1.svg';
 import './Header.css';
 
 const Header = () => {
@@ -7,7 +6,7 @@ const Header = () => {
         <div>
             <div className='header'>
                 <h1>Developers Cafe</h1>
-                <img src={profile} alt="" />
+                <img src='Ellipse 1.svg' alt="" />
             </div>
             <hr className='hr'/>
         </div>

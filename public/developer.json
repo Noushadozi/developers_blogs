@@ -1,55 +1,55 @@
 [
-  {
-    "id": 1,
-    "main_image_url": "https://images.unsplash.com/photo-1551434678-e076c223a692?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
-    "author_pic_url": "../src/images/Ellipse 1 (1).svg",
-    "author_name": "Alice",
-    "date": "Mar 10 (8 Days ago)",
-    "title": "How to Get Your First Intern as a Front-End Developer",
-    "reading_time": "5",
-    "categories": [
-      "Front-End Development",
-      "Web Development"
-    ]
-  },
-  {
-    "id": 2,
-    "main_image_url": "https://images.unsplash.com/photo-1624378515195-6bbdb73dff1a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
-    "author_pic_url": "../src/images/Ellipse 1 (2).svg",
-    "author_name": "Bob",
-    "date": "Mar 8 (10 Days ago)",
-    "title": "How to Enter in Back-End Development",
-    "reading_time": "10",
-    "categories": [
-      "Back-End Development",
-      "Web Development"
-    ]
-  },
-  {
-    "id": 3,
-    "main_image_url": "https://images.unsplash.com/photo-1524749292158-7540c2494485?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
-    "author_pic_url": "../src/images/Ellipse 1.svg",
-    "author_name": "Charlie",
-    "date": "Mar 4 (14 Days ago)",
-    "title": "How to Get Your First Job as a Full-Stack Developer",
-    "reading_time": "12",
-    "categories": [
-      "Full-Stack Development",
-      "Web Development"
-    ]
-  },
-  {
-    "id": 4,
-    "main_image_url": "https://img.freepik.com/free-photo/close-up-image-programer-working-his-desk-office_1098-18707.jpg?w=1380&t=st=1693144517~exp=1693145117~hmac=856f29d3bc6452760f0d9ade64eccc1dcfdebaa5cb0ab1cb978a903e75af6de2",
-    "author_pic_url": "../src/images/Ellipse 1 (1).svg",
-    "author_name": "Diana",
-    "date": "Mar 16 (2 Days ago)",
-    "title": "Crack Your First Job as a DevOps Engineer",
-    "reading_time": "15",
-    "categories": [
-      "DevOps Engineering",
-      "Cloud", 
-      "AWS"
-    ]
-  }
-]
+    {
+      "id": 1,
+      "main_image_url": "https://images.unsplash.com/photo-1551434678-e076c223a692?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
+      "author_pic_url": "../src/images/Ellipse 1 (1).svg",
+      "author_name": "Alice",
+      "date": "Mar 10 (8 Days ago)",
+      "title": "How to Get Your First Intern as a Front-End Developer",
+      "reading_time": "5",
+      "categories": [
+        "Front-End Development",
+        "Web Development"
+      ]
+    },
+    {
+      "id": 2,
+      "main_image_url": "https://images.unsplash.com/photo-1624378515195-6bbdb73dff1a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
+      "author_pic_url": "../src/images/Ellipse 1 (2).svg",
+      "author_name": "Bob",
+      "date": "Mar 8 (10 Days ago)",
+      "title": "How to Enter in Back-End Development",
+      "reading_time": "10",
+      "categories": [
+        "Back-End Development",
+        "Web Development"
+      ]
+    },
+    {
+      "id": 3,
+      "main_image_url": "https://images.unsplash.com/photo-1524749292158-7540c2494485?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
+      "author_pic_url": "../src/images/Ellipse 1.svg",
+      "author_name": "Charlie",
+      "date": "Mar 4 (14 Days ago)",
+      "title": "How to Get Your First Job as a Full-Stack Developer",
+      "reading_time": "12",
+      "categories": [
+        "Full-Stack Development",
+        "Web Development"
+      ]
+    },
+    {
+      "id": 4,
+      "main_image_url": "https://img.freepik.com/free-photo/close-up-image-programer-working-his-desk-office_1098-18707.jpg?w=1380&t=st=1693144517~exp=1693145117~hmac=856f29d3bc6452760f0d9ade64eccc1dcfdebaa5cb0ab1cb978a903e75af6de2",
+      "author_pic_url": "../src/images/Ellipse 1 (1).svg",
+      "author_name": "Diana",
+      "date": "Mar 16 (2 Days ago)",
+      "title": "Crack Your First Job as a DevOps Engineer",
+      "reading_time": "15",
+      "categories": [
+        "DevOps Engineering",
+        "Cloud", 
+        "AWS"
+      ]
+    }
+  ]

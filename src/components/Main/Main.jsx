@@ -9,7 +9,7 @@ const Main = () => {
     const [bookmark, setBookmark] = useState(0);
 
     useEffect(() => {
-        fetch('../../../public/developer.json')
+        fetch('developer.json')
             .then(res => res.json())
             .then(data => setBlogs(data));
     }, [])
